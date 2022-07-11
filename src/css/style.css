@@ -1,0 +1,14 @@
+.title{
+    color: red;
+    font-size: 70;
+    font-weight: 600;
+
+
+    user-select: none;
+}
+
+.imageEl{
+    background-image: url('../img/nhlt.jpg');
+    width: 200px;
+    height: 200px;
+}
